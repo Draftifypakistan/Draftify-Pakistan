@@ -1,0 +1,6 @@
+{
+  "name": "Draftify Pakistan",
+  "description": "The premium corporate website for Draftify Pakistan, featuring professional CAD & architectural drafting services and modern IT solutions, with an interactive, server-side AI project estimator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
